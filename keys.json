@@ -1,5 +1,7 @@
 {
-    "weekly": ["Era"],
-    "monthly": [],
-    "lifetime": []
+    "valid_keys": [
+        "abc123",
+        "def456",
+        "ghi789"
+    ]
 }
