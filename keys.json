@@ -1,7 +1,5 @@
 {
-  "valid_keys": [
-    "KEY12345",
-    "MYSECRETKEY",
-    "ANOTHERKEY"
-  ]
+    "weekly": [],
+    "monthly": [],
+    "lifetime": []
 }
