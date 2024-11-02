@@ -1,7 +1,14 @@
 {
-    "valid_keys": [
-        "abc123",
-        "def456",
-        "ghi789"
-    ]
+    "keys": {
+        "weekly": [
+            "weekly-key-1",
+            "weekly-key-2"
+        ],
+        "monthly": [
+            "monthly-key-1"
+        ],
+        "lifetime": [
+            "lifetime-key-1"
+        ]
+    }
 }
