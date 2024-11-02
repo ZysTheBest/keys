@@ -1,14 +1,7 @@
 {
-    "keys": {
-        "weekly": [
-            "weekly-key-1",
-            "weekly-key-2"
-        ],
-        "monthly": [
-            "monthly-key-1"
-        ],
-        "lifetime": [
-            "lifetime-key-1"
-        ]
-    }
+  "valid_keys": [
+    { "key": "abc123", "expires_at": "2024-11-30T23:59:59Z" },
+    { "key": "def456", "expires_at": "2024-12-15T23:59:59Z" },
+    ...
+  ]
 }
