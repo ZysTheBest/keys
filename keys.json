@@ -1,6 +1,6 @@
 {
     "valid_keys": [
-        { "key": "abc123", "expires_at": "2024-11-30T23:59:59Z" },
-        { "key": "xyz789", "expires_at": "2025-01-15T23:59:59Z" }
+        { "key": "abc123"
+        { "key": "xyz789"
     ]
 }
