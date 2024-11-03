@@ -2,5 +2,6 @@
     "valid_keys": [
         { "key": "abc123" },
         { "key": "def456" }
+        { "key": "gef456" }
     ]
 }
