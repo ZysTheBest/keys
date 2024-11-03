@@ -1,5 +1,4 @@
-{
-    "valid_keys": [
+"valid_keys": [
         { "key": "abc123" },
         { "key": "def456" }
     ]
